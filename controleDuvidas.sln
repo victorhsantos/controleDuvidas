@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "controleDuvidas", "controleDuvidas\controleDuvidas.csproj", "{297C7A53-C62E-4B6B-9D84-98CD875700EA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ctrlOcorrências", "ctrlOcorrências\ctrlOcorrências.vdproj", "{F97DB882-50ED-4DCF-9828-E3DA2C1BF57D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{297C7A53-C62E-4B6B-9D84-98CD875700EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297C7A53-C62E-4B6B-9D84-98CD875700EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297C7A53-C62E-4B6B-9D84-98CD875700EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297C7A53-C62E-4B6B-9D84-98CD875700EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F97DB882-50ED-4DCF-9828-E3DA2C1BF57D}.Debug|Any CPU.ActiveCfg = Debug
+		{F97DB882-50ED-4DCF-9828-E3DA2C1BF57D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
